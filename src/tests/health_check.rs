@@ -1,5 +1,7 @@
 
-#[gitcfg(test)]
+use edtech_newsletter::main;
+
+#[cfg(test)]
 mod tests {
     use crate::health_check;
 
