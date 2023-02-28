@@ -1,1 +1,1 @@
-/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/edtech_newsletter: /Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/src/main.rs
+/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/edtech_newsletter: /Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/src/lib.rs /Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/src/main.rs

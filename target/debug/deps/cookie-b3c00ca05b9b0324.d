@@ -1,0 +1,11 @@
+/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/deps/cookie-b3c00ca05b9b0324.rmeta: /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/lib.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/builder.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/parse.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/jar.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/delta.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/draft.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/expiration.rs
+
+/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/deps/cookie-b3c00ca05b9b0324.d: /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/lib.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/builder.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/parse.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/jar.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/delta.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/draft.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/expiration.rs
+
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/lib.rs:
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/builder.rs:
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/parse.rs:
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/jar.rs:
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/delta.rs:
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/draft.rs:
+/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.16.2/src/expiration.rs:

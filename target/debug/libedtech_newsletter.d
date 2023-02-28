@@ -1,0 +1,1 @@
+/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/libedtech_newsletter.rlib: /Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/src/lib.rs
