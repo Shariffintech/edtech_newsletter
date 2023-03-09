@@ -15,10 +15,12 @@ name = "edtech_newsletter"
 [dependencies]
 actix-web = "4.3.1"
 actix-rt = "2.8.0"  
+tokio = "1.25.0"   
 
 [dev-dependencies]
 actix-rt = "2.8.0"
 reqwest = "0.11.14"
+cargo-expand = "1.0"
 
 [[test]]
 name = "health_check"

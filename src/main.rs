@@ -2,8 +2,8 @@ extern crate actix_web;
 use edtech_newsletter::run;
 
 #[actix_web::main]
-async fn main() -> std::io::Result<()> {
-    match run().await {
+fn main() -> std::io::Result<()> {
+    match run(){
         Ok(_server) => {
             // do something with the server
             Ok(())
@@ -13,6 +13,7 @@ async fn main() -> std::io::Result<()> {
             Err(error)
         }
     }
+    
 }
 
 

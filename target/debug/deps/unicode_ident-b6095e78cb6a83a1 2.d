@@ -1,8 +1,0 @@
-/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/deps/unicode_ident-b6095e78cb6a83a1.rmeta: /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/lib.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/tables.rs
-
-/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/deps/libunicode_ident-b6095e78cb6a83a1.rlib: /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/lib.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/tables.rs
-
-/Users/shariftarver/Desktop/software_engineering/mastering-rust/edtech_newsletter/target/debug/deps/unicode_ident-b6095e78cb6a83a1.d: /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/lib.rs /Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/tables.rs
-
-/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/lib.rs:
-/Users/shariftarver/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-ident-1.0.6/src/tables.rs:
